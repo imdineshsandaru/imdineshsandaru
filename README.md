@@ -12,7 +12,10 @@
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-<a target="_blank" href="https://blog.pickme.lk/how-to-use-jmeter-for-performance-testing-10c3bc9bc44c"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*5igfExlPE_qbrgWLBNiiLg.jpeg" alt="Latest medium article" width="40" height="40">
+<ol>
+  <li><a target="_blank" href="https://blog.pickme.lk/how-to-use-jmeter-for-performance-testing-10c3bc9bc44c">How to Use JMeter for Performance Testing</a></li>
+  <!-- Add more list items as needed -->
+</ol>
 
 ## Languages and Tools
 
